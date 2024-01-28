@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'RixInooAriDuriR';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2207-01@1.0/RixInooAriDuriR.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SejonghospitalBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2312-1@1.1/SejonghospitalBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+.logoFont {
+    font-family: RixInooAriDuriR;
+}
+
+.greetingFont {
+    font-family: Pretendard-Regular;
+}
+
+.sejongFont {
+    font-family: SejonghospitalBold;
+}
+
+.curserPointer {
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+.absoluteLeft {
+    position: absolute;
+    left: 0;
+}
+
+.xyCenter {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

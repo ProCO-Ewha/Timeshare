@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'SejonghospitalBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2312-1@1.1/SejonghospitalBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+.greetingBtn {
+    margin: 5px;
+    width: 200px;
+    height: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+
+    font-family: SejonghospitalBold;
+}
+
+.greetingBtnEnter {
+    background-color: black;
+    color: white;
+}
+
+.scheduleBtn {
+    margin: 3px;
+    height: 25px;
+    border: 2px solid;
+    border-radius: 12px;
+    color: black;
+    background-color: white;
+    opacity: 25%;
+
+    font-family: SejonghospitalBold;
+}
+
+.scheduleBtnEnter {
+    opacity: 100%;
+}
+
+.scheduleBtnClicked {
+    opacity: 100%;
+    background-color: black;
+    color: white;
+
+}
