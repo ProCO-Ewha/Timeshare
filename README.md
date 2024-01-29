@@ -8,6 +8,7 @@ https://docs.google.com/presentation/d/1y9NMT6OLtLbyPpOIra2aWDsApRNxdAfZlSNK4kQS
 
 ## ⏰ 개발 기간
 24.01.09(TUE) ~ 
-<br>
+<br><br>
 24.01.29(MON) 중간발표
+<br>
 https://docs.google.com/presentation/d/1pU_NtzAs8okG0g51BawPwjRFxdT3geL2M4iDh9g6EDQ/edit?usp=sharing
